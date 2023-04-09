@@ -1,4 +1,4 @@
-# generate_words
+# Generating Random Words
 
 There is a science fiction book by Stanislaw Lem called [“The
 Futurological Congress”](https://en.wikipedia.org/wiki/The_Futurological_Congress) in which the author describes how
