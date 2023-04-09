@@ -17,7 +17,7 @@ My first attempt was a total failure. I generated random sequences of
 letters and then tried to pick of the ones that could be words. This
 resulted in mostly useless stuff.
 
-More recently I have been reading a book called “Think Stats” and I
+More recently I have been reading a book called [“Think Stats”](https://greenteapress.com/thinkstats/) and I
 decided to try an apply some of statistical methods to generation of
 new words. The basic idea is to analyze some existing text (more text
 the better) to see the distribution of letters in a word. Then, once
